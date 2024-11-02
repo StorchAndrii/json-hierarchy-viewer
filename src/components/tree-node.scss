@@ -1,0 +1,12 @@
+.tree-node {
+  padding-left: 20px;
+
+  &.active {
+    color: black;
+  }
+
+  &.inactive {
+    color: gray;
+  }
+}
+

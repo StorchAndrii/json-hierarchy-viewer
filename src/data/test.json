@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "parentId": null,
+    "name": "One",
+    "active": false
+  },
+  {
+    "id": 2,
+    "parentId": 1,
+    "name": "One-One",
+    "active": true
+  },
+  {
+    "id": 3,
+    "parentId": null,
+    "name": "Two",
+    "active": false
+  },
+  {
+    "id": 4,
+    "parentId": 3,
+    "name": "Two-One",
+    "active": true
+  }
+]
